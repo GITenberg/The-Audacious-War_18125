@@ -1,0 +1,30 @@
+_repo: The-Audacious-War_18125
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barron, Clarence W. (Clarence Walker)
+    alias: Barron, Clarence Walker
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '7821'
+    url: http://www.gutenberg.org/2009/agents/7821
+    wikipedia: http://en.wikipedia.org/wiki/Clarence_Walker_Barron
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18125'
+  lccn: '15004771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+title: The Audacious War
+url: http://www.gutenberg.org/ebooks/18125
