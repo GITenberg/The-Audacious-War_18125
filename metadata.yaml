@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7821
     wikipedia: http://en.wikipedia.org/wiki/Clarence_Walker_Barron
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18125#The-Audacious-War
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2006-04-05'
 gutenberg_type: Text
